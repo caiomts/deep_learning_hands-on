@@ -4,3 +4,4 @@ __pycache__/
 *.swp
 *.swo
 model.png
+my_model.h5
