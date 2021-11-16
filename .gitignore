@@ -5,3 +5,4 @@ __pycache__/
 *.swo
 model.png
 my_model.h5
+my_logs/
